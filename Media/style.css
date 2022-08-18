@@ -3,7 +3,8 @@
 
 body {
     height: 900px;
-    background:  linear-gradient(to right, transparent, gray,darkgray, transparent);
+    background: rgb(36,35,51);
+    background: linear-gradient(90deg, rgba(36,35,51,1) 0%, rgba(139,139,139,1) 47%, rgba(53,91,98,1) 100%); 
     font-family: 'Roboto', sans-serif;
     padding-top: 50px;
 }
@@ -18,7 +19,7 @@ main {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin: 0 30%;
+    margin: 0 35%;
     padding-top: 10px;
     background-color: lightgray;
     border-radius: 10px;
