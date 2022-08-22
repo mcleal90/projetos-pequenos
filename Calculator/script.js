@@ -1,4 +1,4 @@
-// TODO
+// -TODO
 // Hide operations and create two different vars when operation is clicked(OldNum, NewNum) 
 // Disallow . from being entered multiple times
 
@@ -23,7 +23,7 @@ function equals() {
     }
 }
 
-// UNUSED
+// -UNUSED
 // function back() {
 //     var resultado = document.getElementById('resultado').innerHTML;
 //     if (resultado != "0") {
